@@ -4,7 +4,7 @@ Constitutional Intelligence Platform: interactive demos.
 
 ## Contents
 
-This README only. The demos are in the dated versions (`demo-ui-v1-ethraeon-demos-constitutional-intelligence-platform-oct-27-2025`, `demo-ui-updated-ethraeon-demos-constitutional-intelligence-platform-oct-30-2025`).
+This README only. The demos are held in dated versions.
 
 ## Where the demonstrations live
 
